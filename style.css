@@ -1,0 +1,44 @@
+body{
+  background-image: url("pexels-aleksandar-pasaric-325185.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.table{
+  background-color: whitesmoke;
+  font-size: 1rem;
+}
+
+.header{
+  color: white;
+  padding-bottom: 2em;
+}
+
+.title-text {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: white;
+
+}
+
+.name-text a{
+  color: #EB511D;
+  text-decoration: none;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.btn-action{
+  width: 25%;
+}
+
+.main-content {
+  padding-left: 2rem;
+  display: inline-block;
+}
+
+.my-btn{
+  width: 100%;
+}
